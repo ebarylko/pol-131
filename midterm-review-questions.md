@@ -90,8 +90,14 @@ Voting power in the World Bank is dependent on the size of the economy of the co
 An SAP is a set of policies which set the conditions for obtaining money from the World Bank.
 These policies include austerity measures, deregulation, and the removal of domestic subsidies.
 
+SAPs forced countries to suspend investment and consumption and to direct their efforts 
+towards increasing exportation of primary materials.
+
 The SAPs that the World Bank offered did not work in Mexico and in African countries.
 The World Bank explained this as originating from a lack of good governance.
+
+SAPs may have worked in Northern countries, but they were not planned to be used in developing
+countries. 
 
 ### What is the IMF
 Created at the Bretton Woods Conference.
@@ -104,3 +110,8 @@ developed countries.
 
 Countries could take out money within the IMF to avoid devaluing their currency.
 
+
+### Comparative advantage
+It is the idea that each country has a product that they have an advantage towards 
+producing/procuring, and that each country should focus their efforts on producing 
+what they specialize in. 
