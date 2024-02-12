@@ -17,7 +17,7 @@ Fifth: modern
 Characteristics of each stage:
 * Traditional: societies had pre-newtonian understanding of society.
 * pre-conditions for take-off: trade expansion, increase in development, and creation of a nation state
-*  Take-off: 10% of GDP is invested in economy and agricultural and industrial production exceeds rate of population growth
+*  Take-off: 10% of GDP is invested in economy,  agricultural and industrial production exceeds rate of population growth
 * drive to maturity: Production of a diverse range of products, including technologically advanced ones. Continual growth, greater integration into the world economy
 * modern: consumption expanded beyond basic needs and average incomes are high. 
 
@@ -35,12 +35,16 @@ Economist who had the theory of comparative advantage:
 
 ### Amartya Sen
 
+#### What is the importance of wealth?
+#### What are freedoms and unfreedoms?
+#### For Sen, what is the relation between development and income?
+
 Sees wealth as a way to have freedom in the life you live.
 
 Poverty limits that freedom drastically. 
 
-Multiple types of unfreedoms: poverty, racism, sexism, lack of access to food, lack of access to health 
-services.
+Multiple types of unfreedoms: poverty, racism, sexism, lack of access to food,
+lack of access to health services.
 
 By improving the level of access to government services, such as education, healthcare, participation 
 in the political system, it can bolster the freedoms people have by giving them more opportunities.
@@ -48,10 +52,12 @@ Ex: participating in the political system lets you make decisions that impact yo
 to resources, and that could allow you to gain more freedoms as a result. 
 
 ### Washington consensus
-recommended the liberalization of capital flows and trade (through free trade agreements), 
+#### What is the relation between the Washington Consensus and SAPs?
+
+Recommended the liberalization of capital flows and trade (through free trade agreements), 
 the privatization of the public sector, and the abolition of market-restricting regulations.
-It became a central component of structural adjustment programs imposed by the Bank and the 
-IMF on countries that required loans.
+It became a central component of structural adjustment programs imposed by the World Bank 
+and the IMF on countries that required loans.
 
 ### Nation and Nation-state
 
@@ -92,6 +98,8 @@ These policies include austerity measures, deregulation, and the removal of dome
 
 SAPs forced countries to suspend investment and consumption and to direct their efforts 
 towards increasing exportation of primary materials.
+
+#### Do SAPs work? If not, why so?
 
 The SAPs that the World Bank offered did not work in Mexico and in African countries.
 The World Bank explained this as originating from a lack of good governance.
