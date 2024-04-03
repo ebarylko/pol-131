@@ -33,6 +33,10 @@ Economist who had the theory of comparative advantage:
 
 * Each country has an advantage when compared to the other countries in terms of some product or resource it produces/extracts. Countries will benefit from specializing in a certain resource and trading with other countries for items which they do not have.
 
+Amartya Sen is an economist who says that development is measured by the freedoms the people in a country have, and 
+that factors such as racism, poverty, discrimination, etc, can affect the freedoms you have. 
+
+
 ### Amartya Sen
 
 #### What is the importance of wealth?
@@ -123,3 +127,16 @@ Countries could take out money within the IMF to avoid devaluing their currency.
 It is the idea that each country has a product that they have an advantage towards 
 producing/procuring, and that each country should focus their efforts on producing 
 what they specialize in. 
+
+### What is good governance
+Good governance is when governments are 
+* Transparent (let their citizens know of their actions, do not obscure anything)
+* Accountable (governments can be held to their actions, they have to answer to their citizens)
+* Just (the rule of law is applied equally)
+
+### What is Import Substitution Industrialization
+* Instead of depending on outside knowledge and technology when importing products, the technology should be developed locally 
+* Reduce the dependence on foreign spending and obtain revenue through selling your process
+
+### Export led Industrialization
+* Seeing that there are countries which are dependent on exports, you could become a primary exporter

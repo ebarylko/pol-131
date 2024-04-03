@@ -118,7 +118,7 @@ UN in 2006 published report saying that human rights and development
 are important landmark occasion.
 
 Moral obligation to reduce poverty is not shared by countries, and 
-begs the question of what duty citizens have in temrs of reducing 
+begs the question of what duty citizens have in terms of reducing 
 poverty?
 
 In developed countries, welfare policies are common.
@@ -130,7 +130,7 @@ Define these terms later
 
 Cosmopolitanism: for
 Communitarianism: against
-Libertanarianism: against
+Libertarianism: against
 
 Cosmopolitan: Justice is owed to all people regardless of money 
 and where you are located

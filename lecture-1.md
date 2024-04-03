@@ -235,7 +235,7 @@ The treaty of Westphalia:
 
 Nation-state: 
 * Have governance
-* Have sovereignty (correct this)
+* Have sovereignty 
 * 
 
 Citizenship is an artificial concept.
